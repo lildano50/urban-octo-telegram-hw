@@ -20,8 +20,11 @@ THEN I find a concise, descriptive title
 Updates will improve accessibility of website by ensuring all links work, tabbing/shift-tabbing follow a logical progression around the website, color contracts are of an acceptable ratio, and all links/images have alt text tags.
 
 ### Acceptance Criteria
-- [ ] It's done when the html file has semantic HTML elemants
-- [ ] It's done when HTML elements follow a logical structure
-- [ ] It's done when accessibility standards are followed
-- [ ] It's done when the title has a concise, descriptive title
+- [X] It's done when the html file has semantic HTML elemants
+- [X] It's done when HTML elements follow a logical structure
+- [X] It's done when accessibility standards are followed
+- [X] It's done when the title has a concise, descriptive title
+
+## Completed Site
+https://lildano50.github.io/urban-octo-telegram-hw/Develop/
 
